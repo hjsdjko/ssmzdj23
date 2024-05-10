@@ -1,0 +1,294 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB61E",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	}, {
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	}, {
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	}, {
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	}, {
+		"path": "pages/user-info/user-info",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+			,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/xiaoshuofenlei/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/xiaoshuofenlei/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/xiaoshuofenlei/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/shucheng/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/shucheng/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/shucheng/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/dingdanxinxi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/dingdanxinxi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/dingdanxinxi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/xiaoshuozixun/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/xiaoshuozixun/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/xiaoshuozixun/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/xiaoshuozhangjie/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/xiaoshuozhangjie/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/xiaoshuozhangjie/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	}
+							,{
+		"path": "pages/storeup/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/storeup/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/storeup/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/discussshucheng/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/discussshucheng/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/discussshucheng/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white"
+		}
+	}
+			    , {
+		"path": "pages/forum-index/forum-index",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}, {
+		"path": "pages/forum-detail/forum-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "书圈发帖详情"
+		}
+	}, {
+		"path": "pages/forum-reply/forum-reply",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "回复评论"
+		}
+	}, {
+		"path": "pages/forum-list/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}, {
+		"path": "pages/forum-my/forum-my",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}, {
+		"path": "pages/forum-add-or-update/forum-add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}
+			, {
+		"path": "pages/pay-confirm/pay-confirm",
+		"style": {
+			"navigationBarTitleText": "确认支付"
+		}
+	}
+	, {
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#FF9900",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "小说阅读器小程序",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#A98175",
+		"selectedColor": "#2E4E7E",
+		"borderStyle": "white",
+		"backgroundColor": "#FFC773",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			
+												,{
+				"pagePath": "pages/shucheng/list",
+				"iconPath": "/static/tabs/icon1.png",
+				"selectedIconPath": "/static/tabs/icon1_act.png",
+				"text": "书城"
+			}
+												,{
+				"pagePath": "pages/xiaoshuozixun/list",
+				"iconPath": "/static/tabs/icon2.png",
+				"selectedIconPath": "/static/tabs/icon2_act.png",
+				"text": "小说资讯"
+			}
+						
+						,{
+			 	"pagePath": "pages/forum-index/forum-index",
+				"iconPath": "static/tabs/type.png",
+			 	"selectedIconPath": "static/tabs/type1.png",
+				"text": "书圈"
+			}
+						
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
